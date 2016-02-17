@@ -1,2 +1,2 @@
 # restfulclient-php
-Windward's TypeScript Client for the RESTful Engine.
+Windward's PHP Client for the RESTful Engine.
